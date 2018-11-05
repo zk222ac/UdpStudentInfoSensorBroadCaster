@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpStudentInfoSensorBroadCaster", "UdpStudentInfoSensorBroadCaster\UdpStudentInfoSensorBroadCaster.csproj", "{E1581619-0D0D-401D-A8E7-072693CEC20B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpStudentInfoFakeSensorBroadCaster", "UdpStudentInfoSensorBroadCaster\UdpStudentInfoFakeSensorBroadCaster.csproj", "{E1581619-0D0D-401D-A8E7-072693CEC20B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
