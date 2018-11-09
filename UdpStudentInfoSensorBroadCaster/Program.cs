@@ -9,15 +9,6 @@ using System.Threading.Tasks;
 
 namespace UdpStudentInfoSensorBroadCaster
 {
-    /*
- * Fake student Info UDP Sensor
- *
- * Author Zuhair haroon Khan, ZIBAT Computer Science
- * Version 1.0. 2018.11.05
- * Copyright 2018 by Zuhair haroon Khan * 
- * All rights reserved
-   
- */
     class Program
     {
         static void Main(string[] args)
